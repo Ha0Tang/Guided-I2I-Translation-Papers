@@ -26,6 +26,10 @@ __TOC__
 ## Segmentation Map Guided
 
 ## Texture Guided
+Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+TextureGAN                                | TextureGAN: Controlling Deep Image Synthesis with Texture Patches | CVPR 2018  | [1706.02823](https://arxiv.org/abs/1706.02823) | [janesjanes/Pytorch-TextureGAN](https://github.com/janesjanes/Pytorch-TextureGAN) |
+
 
 ## Example Guided
 
