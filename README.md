@@ -23,20 +23,20 @@ GANimation                   | GANimation: Anatomically-aware Facial Animation f
 RelGAN                       | RelGAN: Multi-Domain Image-to-Image Translation via Relative Attributes | ICCV 2019                     | [1908.07269](https://arxiv.org/abs/1908.07269) | [elvisyjlin/RelGAN-PyTorch](https://github.com/elvisyjlin/RelGAN-PyTorch), [willylulu/RelGAN](https://github.com/willylulu/RelGAN) |
 
 ## Facial Landmark Guided
-Model                                     | Paper                                                        | Conference | Paper                                      | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                      | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 G2GAN                                    | Geometry Guided Adversarial Facial Expression Synthesis      | MM 2018    | [1712.03474](https://arxiv.org/abs/1712.03474) |  
 CMM-Net | Every Smile is Unique: Landmark-Guided Diverse Smile Generation | CVPR 2018 | [1802.01873](https://arxiv.org/abs/1802.01873) | |
 C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) | [Ha0Tang/C2GAN](https://github.com/Ha0Tang/C2GAN)  |
 
 ## Human Skeleton Guided
-Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
 Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/abs/1808.07371) | [project page](https://carolineec.github.io/everybody_dance_now/) |
 
 ## Segmentation Map Guided
-Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 Pix2PixHD                                | High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR 2018  | [1711.11585](https://arxiv.org/abs/1711.11585) | [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)      |
 Vid2Vid                                   | Video-to-Video Synthesis                                     | NeurIPS 2018  | [1808.06601](https://arxiv.org/abs/1808.06601) | [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid)          |
@@ -47,19 +47,19 @@ Art2Real     | Art2Real: Unfolding the Reality of Artworks via Semantically-Awar
 Few-shot vid2vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
 
 ## Texture Patch Guided
-Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 TextureGAN                                | TextureGAN: Controlling Deep Image Synthesis with Texture Patches | CVPR 2018  | [1706.02823](https://arxiv.org/abs/1706.02823) | [janesjanes/Pytorch-TextureGAN](https://github.com/janesjanes/Pytorch-TextureGAN) |
 Guided-pix2pix                            | Guided Image-to-Image Translation with Bi-Directional Feature Transformation | ICCV 2019 | [1910.11328](https://arxiv.org/abs/1910.11328) | [vt-vl-lab/Guided-pix2pix](https://github.com/vt-vl-lab/Guided-pix2pix)
 
 ## Example Guided
-Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 EG-UNIT                      | Exemplar Guided Unsupervised Image-to-Image Translation      | ICLR 2019  | [1805.11145](https://arxiv.org/abs/1805.11145)               |   [charliememory/EGSC-IT](https://github.com/charliememory/EGSC-IT) |
 Pix2pixSC                                  | Example-Guided Style-Consistent Image Synthesis from Semantic Labeling | CVPR 2019 | [1906.01314](https://arxiv.org/abs/1906.01314) | [cxjyxxme/pix2pixSC](https://github.com/cxjyxxme/pix2pixSC)
 
 ## Attention Guided
-Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 DA-GAN               | DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks | CVPR 2018  | [1802.06454](https://arxiv.org/abs/1802.06454) 
 Attention-GAN        | Attention-GAN for Object Transfiguration in Wild Images      | ECCV 2018  | [1803.06798](https://arxiv.org/abs/1803.06798)         |   
@@ -69,14 +69,14 @@ AttentionGAN         | Attention-Guided Generative Adversarial Networks for Unsu
 U-GAT-IT             | U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation |  ICLR 2020  | [1907.10830](https://arxiv.org/abs/1907.10830)         | [taki0112/UGATIT](https://github.com/taki0112/UGATIT), [znxlwm/UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch) |
 
 ## Mask Guided
-Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 ContrastGAN          | Generative Semantic Manipulation with Mask-Contrasting GAN   | ECCV 2018  | [1708.00315](https://arxiv.org/abs/1708.00315)         |               |
 InstaGAN             | Instance-aware image-to-image translation                    | ICLR 2019  | [1812.10889](https://arxiv.org/abs/1812.10889) | [sangwoomo/instagan](https://github.com/sangwoomo/instagan)  |
 INIT                 | Towards Instance-level Image-to-Image Translation            | CVPR 2019  | [1905.01744](https://arxiv.org/abs/1905.01744)         | [project](http://zhiqiangshen.com/projects/INIT/index.html)  |
 
 ## Text Guided
-Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 ControlGAN                                | Controllable Text-to-Image Generation                         | NeurIPS 2019 | [1909.07083](https://arxiv.org/abs/1909.07083) | [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) |
 DMIT                                        | Multi-mapping Image-to-Image Translation via Learning Disentanglement | NeurIPS 2019 | [1909.07877](https://arxiv.org/abs/1909.07877) | [Xiaoming-Yu/DMIT](https://github.com/Xiaoming-Yu/DMIT) |
