@@ -38,6 +38,8 @@ C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image
 ## Human Skeleton Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+PG2                                      | Pose Guided Person Image Generation                           | NeurIPS 2017 | [1705.09368](https://arxiv.org/abs/1705.09368) | [charliememory/Pose-Guided-Person-Image-Generation](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
+|                | Disentangled Person Image Generation | CVPR 2018  | [1712.02621](https://arxiv.org/abs/1712.02621) | [charliememory/Disentangled-Person-Image-Generation](https://github.com/charliememory/Disentangled-Person-Image-Generation) |
 GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
 Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/abs/1808.07371) | [project page](https://carolineec.github.io/everybody_dance_now/) |
 
