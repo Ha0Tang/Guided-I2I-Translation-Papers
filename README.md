@@ -11,7 +11,7 @@
 
 
 ## Class Label Guided
-Model                                     | Paper                                                        | Conference | Paper                                      | Code                                                    |
+Model                                     | Paper                                                        | Conference | Arxiv                                      | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 AGUIT                | Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning |            | [1904.12428](https://arxiv.org/abs/1904.12428)         | [imlixinyang/AGUIT](https://github.com/imlixinyang/AGUIT) |
 IcGAN                        | Invertible Conditional GANs for image editing                | NeurIPSW 2016                    | [1611.06355](https://arxiv.org/abs/1611.06355) | [Guim3/IcGAN](https://github.com/Guim3/IcGAN)                |
