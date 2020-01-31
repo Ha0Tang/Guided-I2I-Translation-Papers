@@ -12,6 +12,7 @@
 - [Attention Guided](#Attention-Guided)
 - [Mask Guided](#Mask-Guided)
 - [Text Guided](#Text-Guided)
+- [Audio Guided](#Audio-Guided)
 
 
 ## Class Label Guided
@@ -96,3 +97,9 @@ Model                                     | Paper                               
 ControlGAN                                | Controllable Text-to-Image Generation                         | NeurIPS 2019 | [1909.07083](https://arxiv.org/abs/1909.07083) | [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) |
 DMIT                                        | Multi-mapping Image-to-Image Translation via Learning Disentanglement | NeurIPS 2019 | [1909.07877](https://arxiv.org/abs/1909.07877) | [Xiaoming-Yu/DMIT](https://github.com/Xiaoming-Yu/DMIT) |
 ManiGAN                                | ManiGAN: Text-Guided Image Manipulation                         |  | [1912.06203](https://arxiv.org/abs/1912.06203) | |
+
+## Audio Guided
+Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+X2Face                                | X2Face: A Network for Controlling Face Generation using Images, Audio, and Pose Codes                         | ECCV 2018 | [1807.10550](https://arxiv.org/abs/1807.10550) | [oawiles/X2Face](https://github.com/oawiles/X2Face) |
+
