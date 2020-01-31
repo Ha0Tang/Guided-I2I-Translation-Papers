@@ -1,7 +1,4 @@
 # Guided Image-to-Image Translation papers
-
-__TOC__
-
 - [Class Label Guided](#Class-Label-Guided)
 - [Facial Landmark Guided](#Facial-Landmark-Guided)
 - [Human Skeleton Guided](#Human-Skeleton-Guided)
