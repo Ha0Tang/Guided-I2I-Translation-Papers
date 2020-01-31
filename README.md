@@ -54,7 +54,9 @@ TextureGAN                                | TextureGAN: Controlling Deep Image S
 ## Example Guided
 Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
-EG-UNIT                      | Exemplar Guided Unsupervised Image-to-Image Translation      | ICLR 2019  | [1805.11145](https://arxiv.org/abs/1805.11145)               |    
+EG-UNIT                      | Exemplar Guided Unsupervised Image-to-Image Translation      | ICLR 2019  | [1805.11145](https://arxiv.org/abs/1805.11145)               |   
+Pix2pixSC                                  | Example-Guided Style-Consistent Image Synthesis from Semantic Labeling | CVPR 2019 | [1906.01314](https://arxiv.org/abs/1906.01314) | [cxjyxxme/pix2pixSC](https://github.com/cxjyxxme/pix2pixSC)
+
 ## Attention Guided
 Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
