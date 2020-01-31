@@ -50,6 +50,7 @@ Few-shot vid2vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.1271
 Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 TextureGAN                                | TextureGAN: Controlling Deep Image Synthesis with Texture Patches | CVPR 2018  | [1706.02823](https://arxiv.org/abs/1706.02823) | [janesjanes/Pytorch-TextureGAN](https://github.com/janesjanes/Pytorch-TextureGAN) |
+Guided-pix2pix                            | Guided Image-to-Image Translation with Bi-Directional Feature Transformation | ICCV 2019 | [1910.11328](https://arxiv.org/abs/1910.11328) | [vt-vl-lab/Guided-pix2pix](https://github.com/vt-vl-lab/Guided-pix2pix)
 
 ## Example Guided
 Model                                     | Paper                                                        | Conference | Paper                                     | Code                                                    |
