@@ -1,11 +1,5 @@
 # Guided Image-to-Image Translation papers
 
-A collection of guided image-to-image translation papers.
-
-Papers are ordered in arXiv first version submitting time (if applicable).
-
-Feel free to send a PR or issue.
-
 __TOC__
 
 - [Class Label Guided](#Class-Label-Guided)
@@ -80,3 +74,5 @@ InstaGAN             | Instance-aware image-to-image translation                
 INIT                 | Towards Instance-level Image-to-Image Translation            | CVPR 2019  | [1905.01744](https://arxiv.org/abs/1905.01744)         | [project](http://zhiqiangshen.com/projects/INIT/index.html)  |
 |                      | Mask-Guided Portrait Editing with Conditional GANs           | CVPR 2019  | [1905.10346](https://arxiv.org/abs/1905.10346)         | [cientgu/Mask_Guided_Portrait_Editing](https://github.com/cientgu/Mask_Guided_Portrait_Editing) |
 
+## Contributions
+Feel free to send a PR or issue.
