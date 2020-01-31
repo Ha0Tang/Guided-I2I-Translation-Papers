@@ -75,7 +75,9 @@ INIT                 | Towards Instance-level Image-to-Image Translation        
 ## Text Guided
 Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
-
+ControlGAN                                | Controllable Text-to-Image Generation                         | NIPS 2019 | [1909.07083](https://arxiv.org/abs/1909.07083) | [mrlibw
+/
+ControlGAN](https://github.com/mrlibw/ControlGAN) |
 
 ## Contributions
 Feel free to send a PR or issue.
