@@ -29,7 +29,11 @@ C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image
 Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
+<<<<<<< HEAD
 Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ECCVW 2018 | [1808.07371](https://arxiv.org/abs/1808.07371) | [website](https://carolineec.github.io/everybody_dance_now/) |
+=======
+pix2pix-HD + Temporal Smoothing + faceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/pdf/1808.07371.pdf) | [website](https://carolineec.github.io/everybody_dance_now/) |
+>>>>>>> 902fd3d098dc7e2790caf218539ef9d04e204eb8
 
 ## Segmentation Map Guided
 Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
