@@ -1,6 +1,6 @@
 # Guided Image-to-Image Translation papers
 
-**Feel free to send a PR or issue.**
+**Feel free to send a PR or issue. (constantly updating)**
 
 - [Class Label Guided](#Class-Label-Guided)
 - [Action Unit Guided](#Action-Unit-Guided)
