@@ -20,10 +20,31 @@ __TOC__
 ## Class Label Guided
 
 ## Facial Landmark Guided
+Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+G2-GAN                                    | Geometry Guided Adversarial Facial Expression Synthesis      | MM 2018    | [1712.03474](https://arxiv.org/abs/1712.03474) |  
 
 ## Human Skeleton Guided
+Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
 
 ## Segmentation Map Guided
+Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+Pix2PixHD                                | High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR 2018  | [1711.11585](https://arxiv.org/abs/1711.11585) | [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)      |
+
+                                                           |
+
+| video           | vid2vid                                   | Video-to-Video Synthesis                                     | NIPS 2018  | [1808.06601](https://arxiv.org/abs/1808.06601) | [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid)          |
+| video           | pix2pix-HD + Temporal Smoothing + faceGAN | Everybody Dance Now                                          | ECCVW 2018 | [1808.07371](https://arxiv.org/abs/1808.07371) | [website](https://carolineec.github.io/everybody_dance_now/) |
+| (un)supervised  | MSGAN                                     | Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis | CVPR 2019  | [1903.05628](https://arxiv.org/abs/1903.05628) | [HelenMao/MSGAN](https://github.com/HelenMao/MSGAN)          |
+| semantic to image | SPADE | Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR 2019 | [1903.07291](https://arxiv.org/abs/1903.07291) | [NVlabs/SPADE](https://github.com/NVlabs/SPADE) |
+| Edge and color domain to reconstrcut image  | PI-REC                                     | PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain |  | [1903.10146](https://arxiv.org/abs/1903.10146) | [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC)          |
+| Cross-view image translation | SelectionGAN | Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation | CVPR 2019 | [1904.06807](https://arxiv.org/abs/1904.06807) | [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) |
+| keypoint guided | C2-GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) |  |
+| Few shot, video | Few-shot vid2vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
+
 
 ## Texture Guided
 Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
@@ -33,24 +54,7 @@ TextureGAN                                | TextureGAN: Controlling Deep Image S
 
 ## Example Guided
 
-| Note            | Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
-| --------------- | ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| texture guided  | TextureGAN                                | TextureGAN: Controlling Deep Image Synthesis with Texture Patches | CVPR 2018  | [1706.02823](https://arxiv.org/abs/1706.02823) | [janesjanes/Pytorch-TextureGAN](https://github.com/janesjanes/Pytorch-TextureGAN) |
-|                 | Contextual GAN                            | Image Generation from Sketch Constraint Using Contextual GAN | ECCV 2018  | [1711.08972](https://arxiv.org/abs/1711.08972) |                                                              |
-|                 | pix2pix-HD                                | High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR 2018  | [1711.11585](https://arxiv.org/abs/1711.11585) | [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)      |
-| one-to-many     | BicycleGAN                                | Toward Multimodal Image-to-Image Translation                 | NIPS 2017  | [1711.11586](https://arxiv.org/abs/1711.11586) | [junyanz/BicycleGAN](https://github.com/junyanz/BicycleGAN)  |
-| keypoint guided | G2-GAN                                    | Geometry Guided Adversarial Facial Expression Synthesis      | MM 2018    | [1712.03474](https://arxiv.org/abs/1712.03474) |                                                              |
-|                 | contour2im                                | Smart, Sparse Contours to Represent and Edit Images          | CVPR 2018  | [1712.08232](https://arxiv.org/abs/1712.08232) | [website](https://contour2im.github.io/)                     |
-| disentangle     | Cross-domain disentanglement networks     | Image-to-image translation for cross-domain disentanglement  | NIPS 2018  | [1805.09730](https://arxiv.org/abs/1805.09730) |                                                              |
-| gesture | GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
-| video           | vid2vid                                   | Video-to-Video Synthesis                                     | NIPS 2018  | [1808.06601](https://arxiv.org/abs/1808.06601) | [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid)          |
-| video           | pix2pix-HD + Temporal Smoothing + faceGAN | Everybody Dance Now                                          | ECCVW 2018 | [1808.07371](https://arxiv.org/abs/1808.07371) | [website](https://carolineec.github.io/everybody_dance_now/) |
-| (un)supervised  | MSGAN                                     | Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis | CVPR 2019  | [1903.05628](https://arxiv.org/abs/1903.05628) | [HelenMao/MSGAN](https://github.com/HelenMao/MSGAN)          |
-| semantic to image | SPADE | Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR 2019 | [1903.07291](https://arxiv.org/abs/1903.07291) | [NVlabs/SPADE](https://github.com/NVlabs/SPADE) |
-| Edge and color domain to reconstrcut image  | PI-REC                                     | PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain |  | [1903.10146](https://arxiv.org/abs/1903.10146) | [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC)          |
-| Cross-view image translation | SelectionGAN | Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation | CVPR 2019 | [1904.06807](https://arxiv.org/abs/1904.06807) | [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) |
-| keypoint guided | C2-GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) |  |
-| Few shot, video | Few-shot vid2vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
+
 
 
 
