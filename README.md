@@ -7,6 +7,7 @@
 - [Example Guided](#Example-Guided)
 - [Attention Guided](#Attention-Guided)
 - [Mask Guided](#Mask-Guided)
+- [Text Guided](#Text-Guided)
 
 
 ## Class Label Guided
@@ -70,6 +71,11 @@ ContrastGAN          | Generative Semantic Manipulation with Mask-Contrasting GA
 InstaGAN             | Instance-aware image-to-image translation                    | ICLR 2019  | [openreview](https://openreview.net/pdf?id=ryxwJhC9YX) | [sangwoomo/instagan](https://github.com/sangwoomo/instagan)  |
 INIT                 | Towards Instance-level Image-to-Image Translation            | CVPR 2019  | [1905.01744](https://arxiv.org/abs/1905.01744)         | [project](http://zhiqiangshen.com/projects/INIT/index.html)  |
 |                      | Mask-Guided Portrait Editing with Conditional GANs           | CVPR 2019  | [1905.10346](https://arxiv.org/abs/1905.10346)         | [cientgu/Mask_Guided_Portrait_Editing](https://github.com/cientgu/Mask_Guided_Portrait_Editing) |
+
+## Text Guided
+Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+
 
 ## Contributions
 Feel free to send a PR or issue.
