@@ -1,5 +1,6 @@
 # Guided Image-to-Image Translation papers
 - [Class Label Guided](#Class-Label-Guided)
+- [Action Unit Guided](#Action-Unit-Guided)
 - [Facial Landmark Guided](#Facial-Landmark-Guided)
 - [Human Skeleton Guided](#Human-Skeleton-Guided)
 - [Segmentation Map Guided](#Segmentation-Map-Guided)
@@ -19,8 +20,12 @@ Conditional CycleGAN         | Conditional CycleGAN for Attribute Guided Face Im
 StarGAN                      | StarGAN: Uniﬁed Generative Adversarial Networks for Multi-Domain Image-to-Image Translation | CVPR 2018                     | [1711.09020](https://arxiv.org/abs/1711.09020) | [yunjey/StarGAN](https://github.com/yunjey/StarGAN)          |
 AttGAN                       | AttGAN: Facial Attribute Editing by Only Changing What You Want | TIP 2019                      | [1711.10678](https://arxiv.org/abs/1711.10678) | [LynnHo/AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) |
 SGGAN                       | Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation | MM 2018                       | [1805.07509](https://arxiv.org/abs/1805.07509) | [zhangqianhui/Sparsely-Grouped-GAN](https://github.com/zhangqianhui/Sparsely-Grouped-GAN) |
-GANimation                   | GANimation: Anatomically-aware Facial Animation from a Single Image | ECCV 2018 | [1807.09251](https://arxiv.org/abs/1807.09251) | [albertpumarola/GANimation](https://github.com/albertpumarola/GANimation) |
 RelGAN                       | RelGAN: Multi-Domain Image-to-Image Translation via Relative Attributes | ICCV 2019                     | [1908.07269](https://arxiv.org/abs/1908.07269) | [elvisyjlin/RelGAN-PyTorch](https://github.com/elvisyjlin/RelGAN-PyTorch), [willylulu/RelGAN](https://github.com/willylulu/RelGAN) |
+
+## Action Unit Guided
+Model                                     | Paper                                                        | Conference | Arxiv                                      | Code                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+GANimation                   | GANimation: Anatomically-aware Facial Animation from a Single Image | ECCV 2018 | [1807.09251](https://arxiv.org/abs/1807.09251) | [albertpumarola/GANimation](https://github.com/albertpumarola/GANimation) |
 
 ## Facial Landmark Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                      | Code                                                    |
