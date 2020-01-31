@@ -68,7 +68,7 @@ U-GAT-IT             | U-GAT-IT: Unsupervised Generative Attentional Networks wi
 Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 ContrastGAN          | Generative Semantic Manipulation with Mask-Contrasting GAN   | ECCV 2018  | [1708.00315](https://arxiv.org/abs/1708.00315)         |               |
-InstaGAN             | Instance-aware image-to-image translation                    | ICLR 2019  | [openreview](https://openreview.net/pdf?id=ryxwJhC9YX) | [sangwoomo/instagan](https://github.com/sangwoomo/instagan)  |
+InstaGAN             | Instance-aware image-to-image translation                    | ICLR 2019  | [1812.10889](https://arxiv.org/abs/1812.10889) | [sangwoomo/instagan](https://github.com/sangwoomo/instagan)  |
 INIT                 | Towards Instance-level Image-to-Image Translation            | CVPR 2019  | [1905.01744](https://arxiv.org/abs/1905.01744)         | [project](http://zhiqiangshen.com/projects/INIT/index.html)  |
 |                      | Mask-Guided Portrait Editing with Conditional GANs           | CVPR 2019  | [1905.10346](https://arxiv.org/abs/1905.10346)         | [cientgu/Mask_Guided_Portrait_Editing](https://github.com/cientgu/Mask_Guided_Portrait_Editing) |
 
