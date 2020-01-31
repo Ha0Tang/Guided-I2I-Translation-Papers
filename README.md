@@ -57,6 +57,8 @@ TextureGAN                                | TextureGAN: Controlling Deep Image S
 ## Example Guided
 
 ## Attention Guided
+Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 DA-GAN               | DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks | CVPR 2018  | [1802.06454](https://arxiv.org/abs/1802.06454) 
 Attention-GAN        | Attention-GAN for Object Transfiguration in Wild Images      | ECCV 2018  | [1803.06798](https://arxiv.org/abs/1803.06798)         |   
 Attention guided GAN | Unsupervised Attention-guided Image to Image Translation     | NIPS 2018  | [1806.02311](https://arxiv.org/abs/1806.02311)         | [AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation](https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation) |
@@ -65,6 +67,8 @@ AttentionGAN         | Attention-Guided Generative Adversarial Networks for Unsu
 U-GAT-IT             | U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation |            | [1907.10830](https://arxiv.org/abs/1907.10830)         | [taki0112/UGATIT](https://github.com/taki0112/UGATIT), [znxlwm/UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch) |
 
 ## Mask Guided
+Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
+----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 ContrastGAN          | Generative Semantic Manipulation with Mask-Contrasting GAN   | ECCV 2018  | [1708.00315](https://arxiv.org/abs/1708.00315)         |               |
 InstaGAN             | Instance-aware image-to-image translation                    | ICLR 2019  | [openreview](https://openreview.net/pdf?id=ryxwJhC9YX) | [sangwoomo/instagan](https://github.com/sangwoomo/instagan)  |
 INIT                 | Towards Instance-level Image-to-Image Translation            | CVPR 2019  | [1905.01744](https://arxiv.org/abs/1905.01744)         | [project](http://zhiqiangshen.com/projects/INIT/index.html)  |
