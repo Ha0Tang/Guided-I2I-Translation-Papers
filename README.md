@@ -14,6 +14,7 @@ __TOC__
 - [Segmentation Map Guided](#Segmentation-Map-Guided)
 - [Texture Patch Guided](#Texture-Patch-Guided)
 - [Example Guided](#Example-Guided)
+- [Attention Guided](#Attention-Guided)
 - [To be classified](#to-be-classified)
 
 
@@ -40,6 +41,7 @@ Pix2PixHD                                | High-Resolution Image Synthesis and S
 Vid2Vid                                   | Video-to-Video Synthesis                                     | NIPS 2018  | [1808.06601](https://arxiv.org/abs/1808.06601) | [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid)          |
 SPADE | Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR 2019 | [1903.07291](https://arxiv.org/abs/1903.07291) | [NVlabs/SPADE](https://github.com/NVlabs/SPADE) |
 SelectionGAN | Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation | CVPR 2019 | [1904.06807](https://arxiv.org/abs/1904.06807) | [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) |
+Art2Real     | Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation | CVPR 2019  | [1811.10666](https://arxiv.org/abs/1811.10666)               | [aimagelab/art2real](https://github.com/aimagelab/art2real) |
 Few-shot vid2vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
 
 
@@ -48,33 +50,11 @@ Model                                     | Paper                               
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 TextureGAN                                | TextureGAN: Controlling Deep Image Synthesis with Texture Patches | CVPR 2018  | [1706.02823](https://arxiv.org/abs/1706.02823) | [janesjanes/Pytorch-TextureGAN](https://github.com/janesjanes/Pytorch-TextureGAN) |
 
-
 ## Example Guided
 
+## Attention Guided
+                                                            |
 
-
-
-
-## Unsupervised
-
-### Unsupervised - General
-
-| Note                                | Model        | Paper                                                        | Conference | paper link                                                   | code link                                                    |
-| ----------------------------------- | ------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                     | DTN          | Unsupervised Cross-Domain Image Generation                   | ICLR 2017  | [1611.02200](https://arxiv.org/abs/1611.02200)               | [yunjey/domain-transfer-network (unofficial)](https://github.com/yunjey/domain-transfer-network) |
-|                                     | UNIT         | Unsupervised image-to-image translation networks             | NIPS 2017  | [1703.00848](https://arxiv.org/abs/1703.00848)               | [mingyuliutw/UNIT](https://github.com/mingyuliutw/UNIT)      |
-|                                     | DiscoGAN     | Learning to Discover Cross-Domain Relations with Generative Adversarial Networks | ICML 2017  | [1703.05192](https://arxiv.org/abs/1703.05192)               | [SKTBrain/DiscoGAN](https://github.com/SKTBrain/DiscoGAN)    |
-|                                     | CycleGAN     | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | ICCV 2017  | [1703.10593](https://arxiv.org/abs/1703.10593)               | [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) |
-|                                     | DualGAN      | DualGAN: Unsupervised Dual Learning for Image-to-Image Translation | ICCV 2017  | [1704.02510](https://arxiv.org/abs/1704.02510)               | [duxingren14/DualGAN](https://github.com/duxingren14/DualGAN) |
-|                                     | DistanceGAN  | One-Sided Unsupervised Domain Mapping                        | NIPS 2017  | [1706.00826](https://arxiv.org/abs/1706.00826)               | [sagiebenaim/DistanceGAN](https://github.com/sagiebenaim/DistanceGAN) |
-| semi supervised                     | Triangle GAN | Triangle Generative Adversarial Networks                     | NIPS 2017  | [1709.06548](https://arxiv.org/abs/1709.06548)               | [LiqunChen0606/Triangle-GAN](https://github.com/LiqunChen0606/Triangle-GAN) |
-|                                     | CartoonGAN   | CartoonGAN: Generative Adversarial Networks for Photo Cartoonization | CVPR 2018  | [thecvf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | [FlyingGoblin/CartoonGAN](https://github.com/FlyingGoblin/CartoonGAN), [unofficial test](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch), [unofficial pytorch](https://github.com/znxlwm/pytorch-CartoonGAN) |
-| non-adversarial                     | NAM          | NAM: Non-Adversarial Unsupervised Domain Mapping             | ECCV 2018  | [1806.00804](https://arxiv.org/abs/1806.00804)               | [facebookresearch/nam](https://github.com/facebookresearch/nam) |
-|                                     | SCAN         | Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks | ECCV 2018  | [1807.08536](https://arxiv.org/abs/1807.08536)               |                                                              |
-| dilated conv, improve shape deform. | GANimorph    | Improved Shape Deformation in Unsupervised Image to Image Translation | ECCV 2018  | [1808.04325](https://arxiv.org/abs/1808.04325)               | [brownvc/ganimorph](https://github.com/brownvc/ganimorph/)   |
-| video                               | Recycle-GAN  | Recycle-GAN: Unsupervised Video Retargeting                  | ECCV 2018  | [1808.05174](https://arxiv.org/abs/1808.05174)               | [aayushbansal/Recycle-GAN](https://github.com/aayushbansal/Recycle-GAN) |
-|                                     | OT-CycleGAN  | Guiding the One-to-one Mapping in CycleGAN via Optimal Transport | AAAI 2019  | [1811.06284](https://arxiv.org/abs/1811.06284)               |                                                              |
-|                                     | Art2Real     | Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation | CVPR 2019  | [1811.10666](https://arxiv.org/abs/1811.10666)               | [aimagelab/art2real](https://github.com/aimagelab/art2real) |
 | latent cross-consistency | CrossNet | CrossNet: Latent Cross-Consistency for Unpaired Image Translation |  | [1901.04530](https://arxiv.org/abs/1901.04530) |  |
 |                                     | HarmonicGAN  | Harmonic Unpaired Image-to-image Translation                 | ICLR 2019  | [1902.09727](https://arxiv.org/abs/1902.09727)               |                                                              |
 | Person Generation | DG-Net | Joint Discriminative and Generative Learning for Person Re-identification | CVPR 2019 | [1904.07223](https://arxiv.org/abs/1904.07223) | [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net) |
