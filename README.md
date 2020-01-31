@@ -1,6 +1,6 @@
 # Guided Image-to-Image Translation papers
 
-A collection of image-to-image papers.
+A collection of guided image-to-image translation papers.
 
 Papers are ordered in arXiv first version submitting time (if applicable).
 
@@ -8,7 +8,7 @@ Feel free to send a PR or issue.
 
 __TOC__
 
-- [Supervised](#supervised)
+- [Label Guided](#Label)
 - [Unsupervised](#unsupervised)
     - [Unsupervised - General](#unsupervised---general)
     - [Unsupervised - Attention/Instance guided](#unsupervised---attentioninstance-guided)
@@ -17,7 +17,7 @@ __TOC__
 - [To be classified](#to-be-classified)
 
 
-## Supervised
+## Label
 
 | Note            | Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
 | --------------- | ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
