@@ -28,7 +28,7 @@ Model                                     | Paper                               
 G2GAN                                    | Geometry Guided Adversarial Facial Expression Synthesis      | MM 2018    | [1712.03474](https://arxiv.org/abs/1712.03474) |  
 CMM-Net | Every Smile is Unique: Landmark-Guided Diverse Smile Generation | CVPR 2018 | [1802.01873](https://arxiv.org/abs/1802.01873) | |
 C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) | [Ha0Tang/C2GAN](https://github.com/Ha0Tang/C2GAN)  |
-       | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models      | ICCV 2019 | [1905.08233](https://arxiv.org/abs/1905.08233) | [grey-eye/talking-heads](https://github.com/grey-eye/talking-heads) |
+|       | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models      | ICCV 2019 | [1905.08233](https://arxiv.org/abs/1905.08233) | [grey-eye/talking-heads](https://github.com/grey-eye/talking-heads) |
 
 ## Human Skeleton Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
