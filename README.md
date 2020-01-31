@@ -8,12 +8,12 @@ Feel free to send a PR or issue.
 
 __TOC__
 
-- [Class Label Guided](#Class Label Guided)
-- [Facial Landmark Guided](#Facial Landmark Guided)
-- [Human Skeleton Guided](#Human Skeleton Guided)
-- [Segmentation Map Guided](#Segmentation Map Guided)
-- [Texture Guided](#Texture Guided)
-- [Example Guided](#Example Guided)
+- [Class Label Guided](#Class-Label-Guided)
+- [Facial Landmark Guided](#Facial-Landmark-Guided)
+- [Human Skeleton Guided](#Human-Skeleton-Guided)
+- [Segmentation Map Guided](#Segmentation-Map-Guided)
+- [Texture Guided](#Texture-Guided)
+- [Example Guided](#Example-Guided)
 - [To be classified](#to-be-classified)
 
 
