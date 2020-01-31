@@ -23,7 +23,7 @@ __TOC__
 Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 G2GAN                                    | Geometry Guided Adversarial Facial Expression Synthesis      | MM 2018    | [1712.03474](https://arxiv.org/abs/1712.03474) |  
-C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) |  |
+C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/C2GAN)  |
 
 ## Human Skeleton Guided
 Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
