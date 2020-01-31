@@ -8,16 +8,26 @@ Feel free to send a PR or issue.
 
 __TOC__
 
-- [Label Guided](#Label)
-- [Unsupervised](#unsupervised)
-    - [Unsupervised - General](#unsupervised---general)
-    - [Unsupervised - Attention/Instance guided](#unsupervised---attentioninstance-guided)
-    - [Unsupervised - Many-to-many (Attributes)](#unsupervised---many-to-many-attributes)
-    - [Unsupervised - Disentangled (and/or Exemplar guided)](#unsupervised---disentangled-andor-exemplar-guided)
+- [Class Label Guided](#Class Label Guided)
+- [Facial Landmark Guided](#Facial Landmark Guided)
+- [Human Skeleton Guided](#Human Skeleton Guided)
+- [Segmentation Map Guided](#Segmentation Map Guided)
+- [Texture Guided](#Texture Guided)
+- [Example Guided](#Example Guided)
 - [To be classified](#to-be-classified)
 
 
-## Label
+## Class Label Guided
+
+## Facial Landmark Guided
+
+## Human Skeleton Guided
+
+## Segmentation Map Guided
+
+## Texture Guided
+
+## Example Guided
 
 | Note            | Model                                     | Paper                                                        | Conference | paper link                                     | code link                                                    |
 | --------------- | ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
