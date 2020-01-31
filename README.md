@@ -1,12 +1,10 @@
-# Image-to-Image papers
+# Guided Image-to-Image Translation papers
 
 A collection of image-to-image papers.
 
 Papers are ordered in arXiv first version submitting time (if applicable).
 
 Feel free to send a PR or issue.
-
-
 
 __TOC__
 
