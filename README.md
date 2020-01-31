@@ -44,6 +44,7 @@ VUnet | A Variational U-Net for Conditional Appearance and Shape Generation | CV
 |                | Disentangled Person Image Generation | CVPR 2018  | [1712.02621](https://arxiv.org/abs/1712.02621) | [charliememory/Disentangled-Person-Image-Generation](https://github.com/charliememory/Disentangled-Person-Image-Generation) |
 GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
 Pose-Transfer | Progressive Pose Attention for Person Image Generation | CVPR 2019 | [1904.03349](https://arxiv.org/abs/1904.03349) | [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) |
+TriangleGAN | Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps | MM 2019 | [1907.05916](https://arxiv.org/abs/1907.05916) | [yhlleo/TriangleGAN](https://github.com/yhlleo/TriangleGAN) |
 Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/abs/1808.07371) | [project page](https://carolineec.github.io/everybody_dance_now/) |
 
 ## Segmentation Map Guided
