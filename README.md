@@ -97,6 +97,7 @@ Model                                     | Paper                               
 ControlGAN                                | Controllable Text-to-Image Generation                         | NeurIPS 2019 | [1909.07083](https://arxiv.org/abs/1909.07083) | [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) |
 DMIT                                        | Multi-mapping Image-to-Image Translation via Learning Disentanglement | NeurIPS 2019 | [1909.07877](https://arxiv.org/abs/1909.07877) | [Xiaoming-Yu/DMIT](https://github.com/Xiaoming-Yu/DMIT) |
 ManiGAN                                | ManiGAN: Text-Guided Image Manipulation                         |  | [1912.06203](https://arxiv.org/abs/1912.06203) | |
+RefinedGAN                            | Image-to-Image Translation with Text Guidance | | [2002.05235](https://128.84.21.199/abs/2002.05235) | |
 
 ## Audio Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
