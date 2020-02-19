@@ -61,7 +61,7 @@ SelectionGAN | Multi-Channel Attention Selection GAN with Cascaded Semantic Guid
 Art2Real     | Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation | CVPR 2019  | [1811.10666](https://arxiv.org/abs/1811.10666)               | [aimagelab/art2real](https://github.com/aimagelab/art2real) |
 |                      | Mask-Guided Portrait Editing with Conditional GANs           | CVPR 2019  | [1905.10346](https://arxiv.org/abs/1905.10346)         | [cientgu/Mask_Guided_Portrait_Editing](https://github.com/cientgu/Mask_Guided_Portrait_Editing) |
 Few-shot Vid2Vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
- | Semantic Bottleneck Scene Generation | [1911.11357](https://arxiv.org/abs/1911.11357) | |
+| | Semantic Bottleneck Scene Generation | | [1911.11357](https://arxiv.org/abs/1911.11357) | |
 
 ## Texture Patch Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
