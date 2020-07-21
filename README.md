@@ -54,6 +54,7 @@ PATN | Progressive Pose Attention for Person Image Generation | CVPR 2019 | [190
 IntrinsicFlow | Dense intrinsic appearance flow for human pose transfer | CVPR 2019 | [1903.11326](https://arxiv.org/abs/1903.11326) | [ly015/intrinsic_flow](https://github.com/ly015/intrinsic_flow) |
 TriangleGAN | Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps | MM 2019 | [1907.05916](https://arxiv.org/abs/1907.05916) | [yhlleo/TriangleGAN](https://github.com/yhlleo/TriangleGAN) |
 Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/abs/1808.07371) | [project](https://carolineec.github.io/everybody_dance_now/) |
+LiquidWarpingGAN | Liquid warping gan: A unified framework for human motion imitation, appearance transfer and novel view synthesis  | ICCV 2019 | [1909.12224](https://arxiv.org/abs/1909.12224) | [svip-lab/impersonator](https://github.com/svip-lab/impersonator) |
 PoseStylizer | Generating Person Images with Appearance-aware Pose Stylizer                                       | IJCAI 2020 | [2007.09077](https://arxiv.org/abs/2007.09077) | [siyuhuang/PoseStylizer](https://github.com/siyuhuang/PoseStylizer) |
 
 ## Segmentation Map Guided
