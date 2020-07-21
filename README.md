@@ -63,6 +63,8 @@ MISC | MISC: Multi-Condition Injection and Spatially-Adaptive Compositing for Co
 Warp3d_Reposing | Reposing Humans by Warping 3D Features                                       | CVPR 2020 Workshop | [2006.04898](https://arxiv.org/abs/2006.04898) | [MKnoche/warp3d_reposing](https://github.com/MKnoche/warp3d_reposing) |
 | | Wish You Were Here: Context-Aware Human Generation                                      | CVPR 2020 | [2005.10663](https://arxiv.org/abs/2005.10663) | |
 PoseStylizer | Generating Person Images with Appearance-aware Pose Stylizer                                       | IJCAI 2020 | [2007.09077](https://arxiv.org/abs/2007.09077) | [siyuhuang/PoseStylizer](https://github.com/siyuhuang/PoseStylizer) |
+XingGAN | XingGAN for Person Image Generation                                       | ECCV 2020 | [2007.09278](https://arxiv.org/abs/2007.09278) | [Ha0Tang/XingGAN](https://github.com/Ha0Tang/XingGAN) |
+
 
 ## Segmentation Map Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
