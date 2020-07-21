@@ -50,6 +50,7 @@ GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM
 Pose-Transfer | Progressive Pose Attention for Person Image Generation | CVPR 2019 | [1904.03349](https://arxiv.org/abs/1904.03349) | [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) |
 TriangleGAN | Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps | MM 2019 | [1907.05916](https://arxiv.org/abs/1907.05916) | [yhlleo/TriangleGAN](https://github.com/yhlleo/TriangleGAN) |
 Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/abs/1808.07371) | [project page](https://carolineec.github.io/everybody_dance_now/) |
+PoseStylizer | Generating Person Images with Appearance-aware Pose Stylizer                                       | IJCAI 2020 | [2007.09077](https://arxiv.org/abs/2007.09077) | [project page](https://github.com/siyuhuang/PoseStylizer) |
 
 ## Segmentation Map Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
