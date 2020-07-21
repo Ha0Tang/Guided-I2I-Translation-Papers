@@ -5,7 +5,7 @@
 - [Class Label Guided](#Class-Label-Guided)
 - [Action Unit Guided](#Action-Unit-Guided)
 - [Facial Landmark Guided](#Facial-Landmark-Guided)
-- [Human Skeleton Guided](#Human-Skeleton-Guided)
+- [Pose Guided Person Image Generation](#Pose-Guided-Person-Image-Generation)
 - [Segmentation Map Guided](#Segmentation-Map-Guided)
 - [Texture Patch Guided](#Texture-Patch-Guided)
 - [Example Guided](#Example-Guided)
@@ -39,7 +39,7 @@ CMM-Net | Every Smile is Unique: Landmark-Guided Diverse Smile Generation | CVPR
 C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) | [Ha0Tang/C2GAN](https://github.com/Ha0Tang/C2GAN)  |
 |       | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models      | ICCV 2019 | [1905.08233](https://arxiv.org/abs/1905.08233) | [grey-eye/talking-heads](https://github.com/grey-eye/talking-heads) |
 
-## Human Skeleton Guided 
+## Pose Guided Person Image Generation
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 PG2                                      | Pose Guided Person Image Generation                           | NeurIPS 2017 | [1705.09368](https://arxiv.org/abs/1705.09368) | [charliememory/Pose-Guided-Person-Image-Generation](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
