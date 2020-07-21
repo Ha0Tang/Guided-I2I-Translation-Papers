@@ -39,7 +39,7 @@ CMM-Net | Every Smile is Unique: Landmark-Guided Diverse Smile Generation | CVPR
 C2GAN | Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation | MM 2019 | [1908.00999](https://arxiv.org/abs/1908.00999) | [Ha0Tang/C2GAN](https://github.com/Ha0Tang/C2GAN)  |
 |       | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models      | ICCV 2019 | [1905.08233](https://arxiv.org/abs/1905.08233) | [grey-eye/talking-heads](https://github.com/grey-eye/talking-heads) |
 
-## Human Skeleton Guided
+## Human Skeleton Guided 
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 PG2                                      | Pose Guided Person Image Generation                           | NeurIPS 2017 | [1705.09368](https://arxiv.org/abs/1705.09368) | [charliememory/Pose-Guided-Person-Image-Generation](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
@@ -50,8 +50,10 @@ DPIG  | Disentangled Person Image Generation | CVPR 2018  | [1712.02621](https:/
 FD-GAN  | FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification | NeurIPS 2018  | [1810.02936](https://arxiv.org/abs/1810.02936) | [yxgeee/FD-GAN](https://github.com/yxgeee/FD-GAN) |
 GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
 PATN | Progressive Pose Attention for Person Image Generation | CVPR 2019 | [1904.03349](https://arxiv.org/abs/1904.03349) | [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) |
+| | Coordinate-based Texture Inpainting for Pose-Guided Human Image Generation | CVPR 2019 | [1811.11459](https://arxiv.org/abs/1811.11459) | [project](https://saic-violet.github.io/coordinpaint/) |
+IntrinsicFlow | Dense intrinsic appearance flow for human pose transfer | CVPR 2019 | [1903.11326](https://arxiv.org/abs/1903.11326) | [ly015/intrinsic_flow](https://github.com/ly015/intrinsic_flow) |
 TriangleGAN | Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps | MM 2019 | [1907.05916](https://arxiv.org/abs/1907.05916) | [yhlleo/TriangleGAN](https://github.com/yhlleo/TriangleGAN) |
-Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/abs/1808.07371) | [project page](https://carolineec.github.io/everybody_dance_now/) |
+Pix2pixHD + Temporal Smoothing + FaceGAN | Everybody Dance Now                                          | ICCV 2019 | [1808.07371](https://arxiv.org/abs/1808.07371) | [project](https://carolineec.github.io/everybody_dance_now/) |
 PoseStylizer | Generating Person Images with Appearance-aware Pose Stylizer                                       | IJCAI 2020 | [2007.09077](https://arxiv.org/abs/2007.09077) | [siyuhuang/PoseStylizer](https://github.com/siyuhuang/PoseStylizer) |
 
 ## Segmentation Map Guided
