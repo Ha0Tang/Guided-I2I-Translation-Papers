@@ -81,6 +81,11 @@ Seg2Vid | Video Generation from Single Semantic Label Map | CVPR 2019 | [1903.04
 | | Semantic Bottleneck Scene Generation | | [1911.11357](https://arxiv.org/abs/1911.11357) | |
 Few-shot Vid2Vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
 CC-FPSE | Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis | NeurIPS 2019 | [1910.06809](https://arxiv.org/abs/1910.06809) | [xh-liu/CC-FPSE](https://github.com/xh-liu/CC-FPSE) |
+SEAN | SEAN: Image Synthesis with Semantic Region-Adaptive Normalization | CVPR 2020 | [1911.12861](https://arxiv.org/abs/1911.12861) | [ZPdesu/SEAN](https://github.com/ZPdesu/SEAN) |
+BachGAN | BachGAN: High-Resolution Image Synthesis from Salient Object Layout | CVPR 2020 | [2003.11690](https://arxiv.org/abs/2003.11690) | [Cold-Winter/BachGAN](https://github.com/Cold-Winter/BachGAN) |
+| | Panoptic-based Image Synthesis | CVPR 2020 | [2004.10289](https://arxiv.org/abs/2004.10289) |  |
+SMIS | Semantically Multi-modal Image Synthesis | CVPR 2020 | [2003.12697](https://arxiv.org/abs/2003.12697) | [Seanseattle/SMIS](https://github.com/Seanseattle/SMIS) |
+LGGAN | Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation | CVPR 2020 | [1912.12215](https://arxiv.org/abs/1912.12215) | [Ha0Tang/LGGAN](https://github.com/Ha0Tang/LGGAN) |
 
 
 ## Texture Patch Guided
