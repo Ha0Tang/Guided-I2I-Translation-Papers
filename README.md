@@ -69,16 +69,19 @@ XingGAN | XingGAN for Person Image Generation                                   
 ## Segmentation Map Guided Scene Image Generation
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+CRN | Photographic Image Synthesis with Cascaded Refinement Networks | ICCV 2017 | [1707.09405](https://arxiv.org/abs/1707.09405) | [CQFIO/PhotographicImageSynthesis](https://github.com/CQFIO/PhotographicImageSynthesis) |
+SIMS | Semi-parametric Image Synthesis | CVPR 2018 | [1804.10992](https://arxiv.org/abs/1804.10992) | [xjqicuhk/SIMS](https://github.com/xjqicuhk/SIMS) |
 Pix2PixHD                                | High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR 2018  | [1711.11585](https://arxiv.org/abs/1711.11585) | [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)      |
 Vid2Vid                                   | Video-to-Video Synthesis                                     | NeurIPS 2018  | [1808.06601](https://arxiv.org/abs/1808.06601) | [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid)          |
 SPADE | Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR 2019 | [1903.07291](https://arxiv.org/abs/1903.07291) | [NVlabs/SPADE](https://github.com/NVlabs/SPADE) |
 SelectionGAN | Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation | CVPR 2019 | [1904.06807](https://arxiv.org/abs/1904.06807) | [Ha0Tang/SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) |
 Art2Real     | Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation | CVPR 2019  | [1811.10666](https://arxiv.org/abs/1811.10666)               | [aimagelab/art2real](https://github.com/aimagelab/art2real) |
 |                      | Mask-Guided Portrait Editing with Conditional GANs           | CVPR 2019  | [1905.10346](https://arxiv.org/abs/1905.10346)         | [cientgu/Mask_Guided_Portrait_Editing](https://github.com/cientgu/Mask_Guided_Portrait_Editing) |
-| | Semantic Bottleneck Scene Generation | | [1911.11357](https://arxiv.org/abs/1911.11357) | |
 Seg2Vid | Video Generation from Single Semantic Label Map | CVPR 2019 | [1903.04480](https://arxiv.org/abs/1903.04480) | [junting/seg2vid](https://github.com/junting/seg2vid) |
+| | Semantic Bottleneck Scene Generation | | [1911.11357](https://arxiv.org/abs/1911.11357) | |
 Few-shot Vid2Vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
 CC-FPSE | Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis | NeurIPS 2019 | [1910.06809](https://arxiv.org/abs/1910.06809) | [xh-liu/CC-FPSE](https://github.com/xh-liu/CC-FPSE) |
+
 
 ## Texture Patch Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
