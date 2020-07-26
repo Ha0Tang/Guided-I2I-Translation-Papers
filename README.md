@@ -6,7 +6,7 @@
 - [Action Unit Guided](#Action-Unit-Guided)
 - [Facial Landmark Guided](#Facial-Landmark-Guided)
 - [Pose Guided Person Image Generation](#Pose-Guided-Person-Image-Generation)
-- [Segmentation Map Guided](#Segmentation-Map-Guided)
+- [Segmentation Map Guided Scene Image Generation](#Segmentation-Map-Guided-Scene-Image-Generation)
 - [Texture Patch Guided](#Texture-Patch-Guided)
 - [Example Guided](#Example-Guided)
 - [Attention Guided](#Attention-Guided)
@@ -66,7 +66,7 @@ PoseStylizer | Generating Person Images with Appearance-aware Pose Stylizer     
 XingGAN | XingGAN for Person Image Generation                                       | ECCV 2020 | [2007.09278](https://arxiv.org/abs/2007.09278) | [Ha0Tang/XingGAN](https://github.com/Ha0Tang/XingGAN) |
 
 
-## Segmentation Map Guided
+## Segmentation Map Guided Scene Image Generation
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
 ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 Pix2PixHD                                | High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR 2018  | [1711.11585](https://arxiv.org/abs/1711.11585) | [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)      |
@@ -78,6 +78,7 @@ Art2Real     | Art2Real: Unfolding the Reality of Artworks via Semantically-Awar
 Few-shot Vid2Vid | Few-shot Video-to-Video Synthesis | NeurIPS 2019 | [1910.12713](https://arxiv.org/abs/1910.12713) | [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) |
 | | Semantic Bottleneck Scene Generation | | [1911.11357](https://arxiv.org/abs/1911.11357) | |
 Seg2Vid | Video Generation from Single Semantic Label Map | CVPR 2019 | [1903.04480](https://arxiv.org/abs/1903.04480) | [junting/seg2vid](https://github.com/junting/seg2vid) |
+CC-FPSE | Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis | NeurIPS 2019 | [1910.06809](https://arxiv.org/abs/1910.06809) | [xh-liu/CC-FPSE](https://github.com/xh-liu/CC-FPSE) |
 
 ## Texture Patch Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
