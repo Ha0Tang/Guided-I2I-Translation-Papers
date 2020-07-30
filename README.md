@@ -86,6 +86,7 @@ BachGAN | BachGAN: High-Resolution Image Synthesis from Salient Object Layout | 
 | | Panoptic-based Image Synthesis | CVPR 2020 | [2004.10289](https://arxiv.org/abs/2004.10289) |  |
 SMIS | Semantically Multi-modal Image Synthesis | CVPR 2020 | [2003.12697](https://arxiv.org/abs/2003.12697) | [Seanseattle/SMIS](https://github.com/Seanseattle/SMIS) |
 LGGAN | Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation | CVPR 2020 | [1912.12215](https://arxiv.org/abs/1912.12215) | [Ha0Tang/LGGAN](https://github.com/Ha0Tang/LGGAN) |
+TSIT | TSIT: A Simple and Versatile Framework for Image-to-Image Translation | ECCV 2020 | [2007.12072](https://arxiv.org/abs/2007.12072) | [EndlessSora/TSIT](https://github.com/EndlessSora/TSIT) |
 
 
 ## Texture Patch Guided
