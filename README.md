@@ -90,7 +90,7 @@ LGGAN | Local Class-Specific and Global Image-Level Generative Adversarial Netwo
 TSIT | TSIT: A Simple and Versatile Framework for Image-to-Image Translation | ECCV 2020 | [2007.12072](https://arxiv.org/abs/2007.12072) | [EndlessSora/TSIT](https://github.com/EndlessSora/TSIT) |
 SegVAE | Controllable Image Synthesis via SegVAE | ECCV 2020 | [2007.08397](https://arxiv.org/abs/2007.08397) | [yccyenchicheng/SegVAE](https://github.com/yccyenchicheng/SegVAE) |
 SESAME | SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects | ECCV 2020 | [2004.04977](https://arxiv.org/abs/2004.04977) | |
-
+Style Semantics | Controlling Style and Semantics in Weakly-Supervised Image Generation | ECCV 2020 | [1912.03161](https://arxiv.org/abs/1912.03161) | [dariopavllo/style-semantics](https://github.com/dariopavllo/style-semantics) |
 
 ## Texture Patch Guided
 Model                                     | Paper                                                        | Conference | Arxiv                                     | Code                                                    |
