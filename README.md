@@ -50,6 +50,7 @@ DPIG  | Disentangled Person Image Generation | CVPR 2018  | [1712.02621](https:/
 FD-GAN  | FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification | NeurIPS 2018  | [1810.02936](https://arxiv.org/abs/1810.02936) | [yxgeee/FD-GAN](https://github.com/yxgeee/FD-GAN) |
 GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
 PATN | Progressive Pose Attention for Person Image Generation | CVPR 2019 | [1904.03349](https://arxiv.org/abs/1904.03349) | [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) |
+SPT | Unsupervised Person Image Generation with Semantic Parsing Transformation | CVPR 2019 | [1904.03379](https://arxiv.org/abs/1904.03379) | [SijieSong/person_generation_spt](https://github.com/SijieSong/person_generation_spt) |
 | | Coordinate-based Texture Inpainting for Pose-Guided Human Image Generation | CVPR 2019 | [1811.11459](https://arxiv.org/abs/1811.11459) | [project](https://saic-violet.github.io/coordinpaint/) |
 IntrinsicFlow | Dense intrinsic appearance flow for human pose transfer | CVPR 2019 | [1903.11326](https://arxiv.org/abs/1903.11326) | [ly015/intrinsic_flow](https://github.com/ly015/intrinsic_flow) |
 TriangleGAN | Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps | MM 2019 | [1907.05916](https://arxiv.org/abs/1907.05916) | [yhlleo/TriangleGAN](https://github.com/yhlleo/TriangleGAN) |
