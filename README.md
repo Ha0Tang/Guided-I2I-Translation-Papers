@@ -48,6 +48,7 @@ VUnet | A Variational U-Net for Conditional Appearance and Shape Generation | CV
 PoseWarp  | Synthesizing Images of Humans in Unseen Poses | CVPR 2018  | [1804.07739](https://arxiv.org/abs/1804.07739) | [posewarp-cvpr2018](https://github.com/balakg/posewarp-cvpr2018) |
 DPIG  | Disentangled Person Image Generation | CVPR 2018  | [1712.02621](https://arxiv.org/abs/1712.02621) | [charliememory/Disentangled-Person-Image-Generation](https://github.com/charliememory/Disentangled-Person-Image-Generation) |
 FD-GAN  | FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification | NeurIPS 2018  | [1810.02936](https://arxiv.org/abs/1810.02936) | [yxgeee/FD-GAN](https://github.com/yxgeee/FD-GAN) |
+PN-GAN | Pose-Normalized Image Generation for Person Re-identification | ECCV 2018 | [1712.02225](https://arxiv.org/abs/1712.02225) | [naiq/PN_GAN](https://github.com/naiq/PN_GAN) |
 GestureGAN | GestureGAN for Hand Gesture-to-Gesture Translation in the Wild | MM 2018 | [1808.04859](https://arxiv.org/abs/1808.04859) | [Ha0Tang/GestureGAN](https://github.com/Ha0Tang/GestureGAN) |
 PATN | Progressive Pose Attention for Person Image Generation | CVPR 2019 | [1904.03349](https://arxiv.org/abs/1904.03349) | [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) |
 SPT | Unsupervised Person Image Generation with Semantic Parsing Transformation | CVPR 2019 | [1904.03379](https://arxiv.org/abs/1904.03379) | [SijieSong/person_generation_spt](https://github.com/SijieSong/person_generation_spt) |
